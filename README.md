@@ -1,4 +1,4 @@
-<img width="906" height="348" alt="image" src="https://github.com/user-attachments/assets/7f56fdd4-4275-49fe-bd4d-2e764ba3e536" /># Программы для технического задания
+# Программы для технического задания
 
 ## Список программ
 
