@@ -22,19 +22,25 @@
 **После открытия Codespaces выполните в терминале:**
 
 # Для первой программы (NumberOperations.java)
+```bash
 cd Program1
 javac NumberOperations.java
 java NumberOperations
+```
 
 # Для второй программы (StringsComparator.java)
+```bash
 cd Program2
 javac StringsComparator.java
 java StringsComparator
+```
 
 # Для третьей программы (EvenNumbers.java)
+```bash
 cd Program3
 javac EvenNumbers.java
 java EvenNumbers
+```
 
 ## Локальный запуск нужной программы в командной строке
 # Проверка на наличии Java
