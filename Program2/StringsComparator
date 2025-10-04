@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Task2StringsComparator {
+class StringsComparator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
