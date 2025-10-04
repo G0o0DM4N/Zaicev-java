@@ -12,6 +12,6 @@
 ```bash
 git clone https://github.com/G0o0DM4N/number-operations-java.git
 cd number-operations-java
-javac NumberOperations.java
-java NumberOperations
+javac Task1NumberOperations.java
+java Task1NumberOperations
 ```
